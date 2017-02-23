@@ -46,3 +46,6 @@ User must sign in to check out
     Shoppingkey.Select product from Search results
     Shoppingkey.Add product to cart
     Shoppingkey.Begin Checkout
+
+Feature 1 Test
+    Log  this is my feature 1
