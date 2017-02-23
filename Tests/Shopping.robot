@@ -23,7 +23,7 @@ User can search for products
 
 User can view a product
     [Documentation]  About test information
-    [Tags]  Smoke
+    [Tags]  Smoke  View
 
     Shoppingkey.Search for Products
     Shoppingkey.Select product from Search results
