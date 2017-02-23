@@ -17,7 +17,7 @@ ${SEARCH_TERM} =  logitech mouse
 *** Test Cases ***
 User can search for products
     [Documentation]  About test information
-    [Tags]  Smoke  Products
+    [Tags]  Smoke  Product
 
     Shoppingkey.Search for Products
 
